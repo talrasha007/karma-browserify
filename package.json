@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "graceful-fs": "latest",
+    "coffee-script": "latest",
     "through": "~2.x.x",
     "chokidar": "~0.x.x"
   },
