@@ -36,6 +36,7 @@
     "url": "https://github.com/xdissent/karma-browserify/issues"
   },
   "dependencies": {
+    "graceful-fs": "latest",
     "through": "~2.x.x",
     "chokidar": "~0.x.x"
   },
